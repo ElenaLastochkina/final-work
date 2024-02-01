@@ -1,0 +1,5 @@
+login_input: "loginInput"
+password_input: "passwordInput"
+submit_button: "submitButton"
+about_link: "//a[contains(., 'About')]"
+opened_window_title: "h1.opened-window-title"
